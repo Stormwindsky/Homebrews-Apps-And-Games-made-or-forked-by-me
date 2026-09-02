@@ -5,3 +5,7 @@
 ### 3DS:
 
 https://github.com/Stormwindsky/HT3DS
+
+### 3DS (but for Scratch Everywhere):
+
+https://github.com/Stormwindsky/Catch-Apples
