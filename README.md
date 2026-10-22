@@ -6,6 +6,8 @@
 
 https://github.com/Stormwindsky/HT3DS
 
+https://github.com/Stormwindsky/Hangman-Game
+
 ### 3DS (but for Scratch Everywhere):
 
 https://github.com/Stormwindsky/Catch-Apples
